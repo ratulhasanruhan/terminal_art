@@ -1,4 +1,4 @@
-# বাংলায় Rust: পর্ব ০১ - টার্মিনাল আর্ট জেনারেটর (Terminal Art Generator)
+## বাংলায় Rust: টার্মিনালে আঁকিবুঁকি (ASCII Art) | পর্ব ০১ | Cargo & Crates
 
 <div align="center">
   <a href="https://youtu.be/4itgCRetSg4">
